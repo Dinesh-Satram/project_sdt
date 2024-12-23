@@ -1,0 +1,7 @@
+[server]
+headless = true
+port = $PORT  # This ensures Render dynamically assigns the correct port
+
+[browser]
+serverAddress = "0.0.0.0"
+serverPort = $PORT
