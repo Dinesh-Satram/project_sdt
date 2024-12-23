@@ -47,7 +47,9 @@ pip install -r requirements.txt
 streamlit run app.py
 
 4. Open the app in your browser at:
-http://localhost:8501
+https://project-sdt-a799.onrender.com
+
+
 
 File Descriptions
 
